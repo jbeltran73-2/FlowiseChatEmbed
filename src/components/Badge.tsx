@@ -47,7 +47,7 @@ export const Badge = (props: Props) => {
       Powered by
       <a
         ref={liteBadge}
-        href={'https://memba.es'}
+        href={'https://www.memba.es'}
         target="_blank"
         rel="noopener noreferrer"
         class="lite-badge"
